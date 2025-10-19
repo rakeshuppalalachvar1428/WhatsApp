@@ -1,0 +1,59 @@
+.navibar{
+    display: inline-block;
+    margin-left: 700px;
+    width: 600px;
+    height: 700px;
+    border:5px solid;
+    border-radius: 0% 0% 10% 10%;
+    position: fixed;
+    overflow: scroll;
+    scrollbar-width: none;
+}
+.nav{
+    background-color: rgb(3, 12, 29);
+    position: fixed;
+   
+   
+}
+i{
+    color: white; 
+    font-size: 30px;
+}
+h1{
+    display: inline-block;
+    margin-left:10px;
+    
+    color:white;
+}
+#heart{
+    margin-right: 290px;
+    font-size: 40px;
+}
+img{
+    width: 600px;
+    height: auto;
+}
+.messages{
+    position: absolute;
+    top: 90px;
+}
+.v{
+    padding-left: 350px;
+    position: relative;
+}
+.m{
+    padding-left: 10px;
+}
+.date-1{
+    position: sticky;
+    top: 70px;
+    text-align: center;
+}
+.date-2{
+    position: sticky;
+    top: 650px;
+    text-align: center;
+}
+#t1{
+color: rgb(17, 157, 244);
+}
